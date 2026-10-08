@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 360" role="img" aria-labelledby="title">
+  <title id="title">Mace duke punuar në kod në kompjuter</title>
+  <rect width="440" height="360" rx="28" fill="#eef5fb"/>
+  <rect x="170" y="55" width="220" height="155" rx="12" fill="#23364d"/>
+  <rect x="181" y="66" width="198" height="130" rx="5" fill="#101c2b"/>
+  <circle cx="197" cy="81" r="4" fill="#f27878"/>
+  <circle cx="210" cy="81" r="4" fill="#f5c86b"/>
+  <circle cx="223" cy="81" r="4" fill="#72ce91"/>
+  <path d="m203 112 13 12-13 12m28 0h30m-58 27 13 12-13 12m28 0h49" fill="none" stroke="#7dd3fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <path d="M148 211h262l-25 18H124z" fill="#8ca4b9"/>
+  <path d="M155 229h238l-21 12H137z" fill="#667e94"/>
+  <path d="M43 184 60 92l66 57 65-57 16 92c8 54-25 94-81 94s-91-40-83-94z" fill="#e5a65e"/>
+  <path d="m60 92 42 37-48 18zm131 0-42 37 50 18z" fill="#e5a65e"/>
+  <path d="m70 108 24 22-28 8zm112 0-24 22 29 8z" fill="#f28e91"/>
+  <path d="M66 200c18-20 39-30 60-30s43 10 60 30v65H66z" fill="#f3c47e"/>
+  <ellipse cx="126" cy="168" rx="61" ry="55" fill="#f0b66d"/>
+  <path d="M89 151c10-8 20-8 30 0m16 0c10-8 20-8 30 0" fill="none" stroke="#49382f" stroke-linecap="round" stroke-width="6"/>
+  <path d="m119 170 8 6 8-6z" fill="#d87878"/>
+  <path d="M126 176c-4 8-12 9-17 4m17-4c4 8 12 9 17 4" fill="none" stroke="#6d4c42" stroke-linecap="round" stroke-width="3"/>
+  <path d="m85 174-32-5m33 14-32 4m114-13 32-5m-33 14 32 4" fill="none" stroke="#6d4c42" stroke-linecap="round" stroke-width="3"/>
+  <path d="M102 225c10-9 20-11 24-3 5-8 15-6 25 3l-7 30h-35z" fill="#fff4df"/>
+  <path d="M91 264c-17 14-17 35 1 39 13 2 24-8 34-20 10 12 21 22 34 20 18-4 18-25 1-39" fill="#f0b66d"/>
+  <path d="M253 308h139" stroke="#8ca4b9" stroke-linecap="round" stroke-width="10"/>
+</svg>
